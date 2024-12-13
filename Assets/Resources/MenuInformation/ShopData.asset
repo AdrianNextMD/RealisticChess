@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcc52e6be98592c49be7bbad739b1e7b, type: 3}
+  m_Name: ShopData
+  m_EditorClassIdentifier: 
+  shopData:
+  - image: {fileID: 21300000, guid: ba58db560165bbf45bf444ca0210921e, type: 3}
+    buyType: 1
+    price: 0
+    differentMaterials: 0
+    whiteMaterial: {fileID: 2100000, guid: 08cf32b8edf97444a868aca417577334, type: 2}
+    blackMaterial: {fileID: 2100000, guid: df59696d7972df941a05858f57b0d668, type: 2}
+    prefabs:
+    - {fileID: 196866, guid: a71fd906a2159e247ab4d632e46947db, type: 3}
+    - {fileID: 130826, guid: 861e95a585868b643bf2e4a1d0ae63b7, type: 3}
+    - {fileID: 196802, guid: b6c7ad354ac474944ba26b2895a59759, type: 3}
+    - {fileID: 138226, guid: edd4f3477fd5a8b4599bf6c0dac39f1d, type: 3}
+    - {fileID: 184594, guid: 1f7a3b3d104b8e44cb39f5356ae1d0bb, type: 3}
+    - {fileID: 125018, guid: 9d3e9c36668dcfe44b524760a4c3a3b5, type: 3}
+  - image: {fileID: 21300000, guid: 5d2855b3be4f5a74bb1119a451ed003d, type: 3}
+    buyType: 1
+    price: 8000
+    differentMaterials: 0
+    whiteMaterial: {fileID: 2100000, guid: 08cf32b8edf97444a868aca417577334, type: 2}
+    blackMaterial: {fileID: 2100000, guid: df59696d7972df941a05858f57b0d668, type: 2}
+    prefabs:
+    - {fileID: 137617654089971443, guid: ae004e00ab52a46548481930a10f9bd1, type: 3}
+    - {fileID: 3681177617624205785, guid: 6a41ff6757ef5be4a9c61be298aa1860, type: 3}
+    - {fileID: 7289050178841290882, guid: c73710592a3f14abaa06c482665b80b4, type: 3}
+    - {fileID: 3546022505396623074, guid: 1d00e8c83ee73ca459a3463ede696a31, type: 3}
+    - {fileID: 6060699982620764063, guid: 511e3e28253964b31a59107d5faf3347, type: 3}
+    - {fileID: 4843988061979264093, guid: 2ce24092d797cfe42906f68b3ccc287d, type: 3}
+  - image: {fileID: 21300000, guid: 42e38590775ba824d911154694f95cb1, type: 3}
+    buyType: 1
+    price: 12399
+    differentMaterials: 0
+    whiteMaterial: {fileID: 2100000, guid: 066248a99cd272147ba0f08e80579417, type: 2}
+    blackMaterial: {fileID: 2100000, guid: 86a69fa691a714241b7ef764e53f479e, type: 2}
+    prefabs:
+    - {fileID: 4627028878932845185, guid: 707aecbd98d8ae7478935df20720ecbb, type: 3}
+    - {fileID: 1040677123709023504, guid: ebce8922f78e64b479cf880c63510e8a, type: 3}
+    - {fileID: 6337399876362403263, guid: 0b65b9090ca45e7428a1cfdea956e59c, type: 3}
+    - {fileID: 6671643818010948411, guid: 352780f3e245a2c44a4e4c7005ddabdd, type: 3}
+    - {fileID: 8451042523665990508, guid: 47ba6e18e9b6a604f9e3377c0433daf8, type: 3}
+    - {fileID: 3611550912416650062, guid: a0b00adcb5436534982e7aaf69f16085, type: 3}
+  - image: {fileID: 21300000, guid: 298cb458e11fbdc458b03dcb943ea57a, type: 3}
+    buyType: 0
+    price: 199
+    differentMaterials: 1
+    whiteMaterial: {fileID: 0}
+    blackMaterial: {fileID: 0}
+    prefabs:
+    - {fileID: 8653395392025778612, guid: 90eb8a338fe1ae34fad381f31d782cb6, type: 3}
+    - {fileID: 7434169606259570254, guid: 3884232f1a71d7b41bc0e6683db7c55d, type: 3}
+    - {fileID: 4525227329097896673, guid: 98695a7aac265ae4d82a23a824058a7a, type: 3}
+    - {fileID: 1698846660320617791, guid: 440e4a7bd79274541962c83b10bdd580, type: 3}
+    - {fileID: 7547974501425430378, guid: 12e59f6617c9fa54da585b54c725d488, type: 3}
+    - {fileID: 1481386811675870665, guid: c79957dcb972ccf4d9a05e21f5cd70aa, type: 3}
